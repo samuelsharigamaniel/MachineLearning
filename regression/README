@@ -9,9 +9,9 @@ Fundamental supervised learning concepts including:
 
 using Scikit-learn in Python
 
-data_1.txt provides data on the performances of 100 drone samples as a function of their lengths.
+data_1.txt provides data on the performances of 100 samples as a function of their lengths.
 
-data_2.txt provides an extended database of the stability and velocity performances of 1200 drone samples at different configurations. 
+data_2.txt provides an extended database of the stability and velocity performances of 1200 samples at different configurations. 
 Each configuration has 8 features and 2 labels.
 
 The following Python packages are required:
