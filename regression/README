@@ -1,0 +1,20 @@
+Fundamental supervised learning concepts including:
+
+ - Linear regression in one dimension, 
+ - Polynomial regression, 
+ - Model evaluation using RMSE and R2 score
+ - Analyzing overfitting and underfitting
+ - Ridge regression and regularization
+ - Multidimensional prediction 
+
+using Scikit-learn in Python
+
+data_1.txt provides data on the performances of 100 drone samples as a function of their lengths.
+
+data_2.txt provides an extended database of the stability and velocity performances of 1200 drone samples at different configurations. 
+Each configuration has 8 features and 2 labels.
+
+The following Python packages are required:
+ - scikit-learn
+ - numpy
+ - matplotlib
